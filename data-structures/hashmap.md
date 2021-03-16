@@ -2,7 +2,7 @@
 
 ## Hashmap + Array
 
-### **Two passes**
+### **Two Passes**
 
 * 1st pass: store elements \(or element frequency\)
 * 2nd pass: check elements
@@ -34,7 +34,7 @@ public:
 };
 ```
 
-### One pass
+### One Pass
 
 * Check remaining elements based on visited/stored elements
 
