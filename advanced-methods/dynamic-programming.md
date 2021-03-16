@@ -6,7 +6,6 @@
   * Max/Min
   * Yes/No
   * Valid solution count
-* Cannot sort or swap
 
 ### Basic Principles
 
@@ -23,11 +22,11 @@
 
 #### Single Sequence
 
+#### Interval
 
+#### Pattern Matching
 
-#### Two Sequences
-
-#### Backpack/Coin-change
+#### Backpack/Coin-Change
 
 #### Matrix
 

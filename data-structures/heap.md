@@ -85,13 +85,10 @@ public:
     MedianFinder() {}
     
     void addNum(int num) {
-        // 1. put to small
-        // 2. put to large
-        // 3. rebalance (small size is equal or one more than large size)
         small.push(num);
         large.push(-small.top());
         small.pop();
-        if (small.size() < large.size()) {
+        if (small.size() < large.size()) { // rebalance
             small.push(-large.top());
             large.pop();
         }
