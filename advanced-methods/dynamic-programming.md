@@ -1,13 +1,15 @@
 # Dynamic Programming
 
-### Use Condition
+### Basics
+
+#### Use Condition
 
 * One of following conditions
   * Max/Min
   * Yes/No
   * Valid solution count
 
-### Basic Principles
+#### Basic Principles
 
 * State
   * What to store
@@ -313,7 +315,7 @@ public:
 };
 ```
 
-#### Two Sequences \(Pattern Matching\)
+### Two Sequences \(Pattern Matching\)
 
 * dp\[i\]\[j\]: compare first i elements of sequence 1 and first j elements of sequence 2
 * Usually can have both backtracking \(with memory\) and dp solutions
@@ -432,9 +434,9 @@ public:
 };
 ```
 
-#### Backpack/Coin-Change
+### Backpack/Coin-Change
 
-#### Matrix
+### Matrix
 
 * Usually 2D solution can be converted to 1D solution
   * Reuse row vector
