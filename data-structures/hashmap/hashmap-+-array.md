@@ -1,11 +1,8 @@
-# Hashmap
+# Hashmap + Array
 
-## Hashmap + Array
-
-### **Two Passes**
-
-* 1st pass: store elements \(or element frequency\)
-* 2nd pass: check elements
+* Two Passes
+  * 1st pass: store elements \(or element frequency\)
+  * 2nd pass: check elements
 
 Example:
 
@@ -34,9 +31,8 @@ public:
 };
 ```
 
-### One Pass
-
-* Check remaining elements based on visited/stored elements
+* One Pass
+  * Check remaining elements based on visited/stored elements
 
 Example:
 

@@ -1,15 +1,11 @@
-# Stack
-
-### Increasing/Decreasing Stack
+# Increasing/Decreasing Stack
 
 * Store indexes of decreasing \(increasing\) sequence
 * Calculate and pop stack when meeting larger \(smaller\) element
 
-#### Increasing Stack
+Examples:
 
-Example:
-
-[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
+[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) \(increasing stack\)
 
 ```cpp
 class Solution {
@@ -35,11 +31,7 @@ public:
 };
 ```
 
-#### Decreasing Stack
-
-Example:
-
-[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
+[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) \(decreasing stack\)
 
 ```cpp
 class Solution {

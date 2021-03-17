@@ -1,17 +1,14 @@
-# Two Pointers
-
-## Dynamic Sliding Window
+# Dynamic Sliding Window
 
 * First store count of each target element
 * Use two pointers: left, right
 * Use right to move forward, use left to find left boundary
 * Check result \(e.g. substring length\) when left boundary is found
 
-#### Min Sliding Window
+Examples:
 
-* Left boundary is found inside while-loop
-
-Example:
+* Min Sliding Window
+  * Left boundary is found inside while-loop
 
 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
@@ -46,11 +43,8 @@ public:
 };
 ```
 
-#### Max Sliding Window
-
-* Left boundary is found when while-loop ends
-
-Example:
+* Max Sliding Window
+  * Left boundary is found when while-loop ends
 
 [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
 
