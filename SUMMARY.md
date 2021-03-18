@@ -14,6 +14,7 @@
   * [Matrix](data-structures/array-string/matrix.md)
 * [Hashmap](data-structures/hashmap/README.md)
   * [Hashmap + Array](data-structures/hashmap/hashmap-+-array/README.md)
+    * [1. Two Sum](data-structures/hashmap/hashmap-+-array/1.-two-sum.md)
     * [387. First Unique Character in a String](data-structures/hashmap/hashmap-+-array/387.-first-unique-character-in-a-string.md)
     * [138. Copy List with Random Pointer](data-structures/hashmap/hashmap-+-array/138.-copy-list-with-random-pointer.md)
     * [336. Palindrome Pairs](data-structures/hashmap/hashmap-+-array/336.-palindrome-pairs.md)
