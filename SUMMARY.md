@@ -8,11 +8,16 @@
 
 ## Data Structures
 
+* [Array/String](data-structures/array-string/README.md)
+  * [Array](data-structures/array-string/array.md)
+  * [String](data-structures/array-string/string.md)
+  * [Matrix](data-structures/array-string/matrix.md)
 * [Hashmap](data-structures/hashmap/README.md)
-  * [Hashmap + Array](data-structures/hashmap/hashmap-+-array.md)
+  * [Hashmap + Array](data-structures/hashmap/hashmap-+-array/README.md)
+    * [387. First Unique Character in a String](data-structures/hashmap/hashmap-+-array/387.-first-unique-character-in-a-string.md)
 * [Linked List](data-structures/linked-list.md)
 * [Stack](data-structures/stack/README.md)
-  * [Increasing/Decreasing Stack](data-structures/stack/increasing-decreasing-stack.md)
+  * [Monotonic Stack](data-structures/stack/increasing-decreasing-stack.md)
 * [Queue](data-structures/queue.md)
 * [Heap](data-structures/heap/README.md)
   * [Top-K](data-structures/heap/top-k.md)
@@ -24,6 +29,8 @@
 
 * [Sort](basic-algorithms/sort.md)
 * [Binary Search](basic-algorithms/binary-search.md)
+* [Greedy](basic-algorithms/greedy.md)
+* [Math](basic-algorithms/math.md)
 
 ## Advanced Methods
 
@@ -39,4 +46,13 @@
   * [Backpack/Coin-Change](advanced-methods/dynamic-programming/backpack-coin-change.md)
   * [Matrix](advanced-methods/dynamic-programming/matrix.md)
 * [Divide and Conquer](advanced-methods/others.md)
+* [Trie](advanced-methods/trie.md)
+* [Binary Indexed Tree](advanced-methods/binary-indexed-tree.md)
+* [Bit Manipulation](advanced-methods/bit-manipulation.md)
+* [Random](advanced-methods/random.md)
+
+## Others
+
+* [Design Problems](others/design-problems.md)
+* [Multithreaded Programming](others/multithreaded-programming.md)
 

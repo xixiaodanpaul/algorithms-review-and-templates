@@ -1,4 +1,4 @@
-# Increasing/Decreasing Stack
+# Monotonic Stack
 
 * Store indexes of decreasing \(increasing\) sequence
 * Calculate and pop stack when meeting larger \(smaller\) element
