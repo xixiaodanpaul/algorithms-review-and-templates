@@ -1,4 +1,4 @@
-# Heap + Stream
+# Heap/Queue + Stream
 
 Examples:
 
