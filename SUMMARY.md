@@ -76,7 +76,11 @@
     * [Node to Node](data-structures/tree/binary-tree-+-path/node-to-node/README.md)
       * [124. Binary Tree Maximum Path Sum](data-structures/tree/binary-tree-+-path/node-to-node/124.-binary-tree-maximum-path-sum.md)
       * [543. Diameter of Binary Tree](data-structures/tree/binary-tree-+-path/node-to-node/543.-diameter-of-binary-tree.md)
-* [Graph](data-structures/graph.md)
+      * [687. Longest Univalue Path](data-structures/tree/binary-tree-+-path/node-to-node/687.-longest-univalue-path.md)
+      * [549. Binary Tree Longest Consecutive Sequence II](data-structures/tree/binary-tree-+-path/node-to-node/549.-binary-tree-longest-consecutive-sequence-ii.md)
+* [Graph](data-structures/graph/README.md)
+  * [BFS - Shortest Path](data-structures/graph/bfs-shortest-path/README.md)
+    * [863. All Nodes Distance K in Binary Tree](data-structures/graph/bfs-shortest-path/863.-all-nodes-distance-k-in-binary-tree.md)
 
 ## Basic Algorithms
 
