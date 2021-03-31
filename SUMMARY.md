@@ -185,6 +185,7 @@
   * [String](advanced-methods/backtracking/string.md)
   * [Matrix](advanced-methods/backtracking/matrix.md)
 * [Dynamic Programming](advanced-methods/dynamic-programming/README.md)
+  * [Basics](advanced-methods/dynamic-programming/basics.md)
   * [Single Sequence](advanced-methods/dynamic-programming/single-sequence/README.md)
     * [Calculate at i-th element](advanced-methods/dynamic-programming/single-sequence/calculate-at-i-th-element/README.md)
       * [53. Maximum Subarray](advanced-methods/dynamic-programming/single-sequence/calculate-at-i-th-element/53.-maximum-subarray.md)
