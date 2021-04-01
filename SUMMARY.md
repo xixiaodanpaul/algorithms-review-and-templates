@@ -144,6 +144,7 @@
     * [253. Meeting Rooms II](basic-algorithms/sort/interval/253.-meeting-rooms-ii.md)
     * [759. Employee Free Time](basic-algorithms/sort/interval/759.-employee-free-time.md)
 * [Binary Search](basic-algorithms/binary-search/README.md)
+  * [Basics](basic-algorithms/binary-search/basics.md)
   * [Search Rotated Sorted Array](basic-algorithms/binary-search/search-rotated-sorted-array/README.md)
     * [33. Search in Rotated Sorted Array](basic-algorithms/binary-search/search-rotated-sorted-array/33.-search-in-rotated-sorted-array.md)
     * [81. Search in Rotated Sorted Array II](basic-algorithms/binary-search/search-rotated-sorted-array/81.-search-in-rotated-sorted-array-ii.md)
