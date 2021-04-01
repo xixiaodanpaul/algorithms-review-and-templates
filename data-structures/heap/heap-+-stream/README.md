@@ -1,8 +1,8 @@
 # Heap/Queue + Stream
 
-Examples:
-
 * Find Max
+
+Example:
 
 [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
 
@@ -35,6 +35,10 @@ public:
       * Put element to small heap
       * Move element to large heap
       * Rebalance \(small size is equal or one more than large size\)
+
+Example:
+
+[Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
 
 ```cpp
 class MedianFinder {
