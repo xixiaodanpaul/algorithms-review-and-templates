@@ -1,7 +1,8 @@
 # String Decoding/Parsing
 
 * Parentheses
-  * Calculate result at right parenthesis
+  * Left parenthesis: Push sign and calculated result to stack
+  * Right parenthesis: Pop stored sign and result, add result in parentheses
 
 Example:
 
