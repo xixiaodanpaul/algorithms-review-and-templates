@@ -1,6 +1,2 @@
 # Backtracking
 
-* Array
-* String
-* Matrix
-
