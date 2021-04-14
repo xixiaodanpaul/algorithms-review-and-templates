@@ -184,6 +184,9 @@
     * [490. The Maze](data-structures/graph/matrix/490.-the-maze.md)
     * [505. The Maze II](data-structures/graph/matrix/505.-the-maze-ii.md)
     * [733. Flood Fill](data-structures/graph/matrix/733.-flood-fill.md)
+    * [694. Number of Distinct Islands](data-structures/graph/matrix/694.-number-of-distinct-islands.md)
+    * [489. Robot Room Cleaner](data-structures/graph/matrix/489.-robot-room-cleaner.md)
+    * [130. Surrounded Regions](data-structures/graph/matrix/130.-surrounded-regions.md)
 
 ## Basic Algorithms
 
@@ -245,6 +248,16 @@
     * [15. 3Sum](advanced-methods/two-pointers/two-pointers-+-sorted-array-k-sum/15.-3sum.md)
     * [16. 3Sum Closest](advanced-methods/two-pointers/two-pointers-+-sorted-array-k-sum/16.-3sum-closest.md)
     * [18. 4Sum](advanced-methods/two-pointers/two-pointers-+-sorted-array-k-sum/18.-4sum.md)
+  * [Two Pointers from Start and End](advanced-methods/two-pointers/two-pointers-from-start-and-end/README.md)
+    * [42. Trapping Rain Water](advanced-methods/two-pointers/two-pointers-from-start-and-end/42.-trapping-rain-water.md)
+    * [11. Container With Most Water](advanced-methods/two-pointers/two-pointers-from-start-and-end/11.-container-with-most-water.md)
+    * [125. Valid Palindrome](advanced-methods/two-pointers/two-pointers-from-start-and-end/125.-valid-palindrome.md)
+    * [680. Valid Palindrome II](advanced-methods/two-pointers/two-pointers-from-start-and-end/680.-valid-palindrome-ii.md)
+    * [75. Sort Colors](advanced-methods/two-pointers/two-pointers-from-start-and-end/75.-sort-colors.md)
+    * [344. Reverse String](advanced-methods/two-pointers/two-pointers-from-start-and-end/344.-reverse-string.md)
+    * [345. Reverse Vowels of a String](advanced-methods/two-pointers/two-pointers-from-start-and-end/345.-reverse-vowels-of-a-string.md)
+    * [246. Strobogrammatic Number](advanced-methods/two-pointers/two-pointers-from-start-and-end/246.-strobogrammatic-number.md)
+    * [9. Palindrome Number](advanced-methods/two-pointers/two-pointers-from-start-and-end/9.-palindrome-number.md)
 * [Backtracking](advanced-methods/backtracking/README.md)
   * [Array](advanced-methods/backtracking/array/README.md)
     * [46. Permutations](advanced-methods/backtracking/array/46.-permutations.md)
