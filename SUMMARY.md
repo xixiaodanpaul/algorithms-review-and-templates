@@ -352,7 +352,12 @@
 
 ## Others
 
-* [Design Problems](others/design-problems.md)
+* [Design Problems](others/design-problems/README.md)
+  * [Data Structure Design](others/design-problems/data-structure-design/README.md)
+    * [Basics](others/design-problems/data-structure-design/basics.md)
+    * [146. LRU Cache](others/design-problems/data-structure-design/146.-lru-cache.md)
+    * [460. LFU Cache](others/design-problems/data-structure-design/460.-lfu-cache.md)
+  * [Application Design](others/design-problems/application-design.md)
 * [Multithreaded Programming](others/multithreaded-programming.md)
 
 ## Index <a id="problem-list"></a>
