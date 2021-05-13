@@ -265,6 +265,7 @@
     * [694. Number of Distinct Islands](data-structures/graph/matrix/694.-number-of-distinct-islands.md)
     * [489. Robot Room Cleaner](data-structures/graph/matrix/489.-robot-room-cleaner.md)
     * [130. Surrounded Regions](data-structures/graph/matrix/130.-surrounded-regions.md)
+    * [675. Cut Off Trees for Golf Event](data-structures/graph/matrix/675.-cut-off-trees-for-golf-event.md)
   * [Graph](data-structures/graph/graph/README.md)
     * [332. Reconstruct Itinerary](data-structures/graph/graph/332.-reconstruct-itinerary.md)
     * [547. Number of Provinces](data-structures/graph/graph/547.-number-of-provinces.md)
@@ -273,6 +274,13 @@
     * [1236. Web Crawler](data-structures/graph/graph/1236.-web-crawler.md)
     * [787. Cheapest Flights Within K Stops](data-structures/graph/graph/787.-cheapest-flights-within-k-stops.md)
     * [399. Evaluate Division](data-structures/graph/graph/399.-evaluate-division.md)
+    * [785. Is Graph Bipartite?](data-structures/graph/graph/785.-is-graph-bipartite.md)
+    * [323. Number of Connected Components in an Undirected Graph](data-structures/graph/graph/323.-number-of-connected-components-in-an-undirected-graph.md)
+    * [737. Sentence Similarity II](data-structures/graph/graph/737.-sentence-similarity-ii.md)
+    * [261. Graph Valid Tree](data-structures/graph/graph/261.-graph-valid-tree.md)
+    * [339. Nested List Weight Sum](data-structures/graph/graph/339.-nested-list-weight-sum.md)
+    * [364. Nested List Weight Sum II](data-structures/graph/graph/364.-nested-list-weight-sum-ii.md)
+    * [947. Most Stones Removed with Same Row or Column](data-structures/graph/graph/947.-most-stones-removed-with-same-row-or-column.md)
 
 ## Basic Algorithms
 
