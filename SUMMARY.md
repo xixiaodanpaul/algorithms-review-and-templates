@@ -340,7 +340,10 @@
     * [981. Time Based Key-Value Store](basic-algorithms/binary-search/others/981.-time-based-key-value-store.md)
     * [352. Data Stream as Disjoint Intervals](basic-algorithms/binary-search/others/352.-data-stream-as-disjoint-intervals.md)
     * [392. Is Subsequence](basic-algorithms/binary-search/others/392.-is-subsequence.md)
-* [Greedy](basic-algorithms/greedy.md)
+* [Greedy](basic-algorithms/greedy/README.md)
+  * [55. Jump Game](basic-algorithms/greedy/55.-jump-game.md)
+  * [45. Jump Game II](basic-algorithms/greedy/45.-jump-game-ii.md)
+  * [134. Gas Station](basic-algorithms/greedy/134.-gas-station.md)
 
 ## Advanced Methods
 
@@ -544,7 +547,15 @@
     * [284. Peeking Iterator](others/design/data-structure-design/284.-peeking-iterator.md)
     * [251. Flatten 2D Vector](others/design/data-structure-design/251.-flatten-2d-vector.md)
     * [281. Zigzag Iterator](others/design/data-structure-design/281.-zigzag-iterator.md)
-  * [Application Design](others/design/application-design.md)
+  * [Application Design](others/design/application-design/README.md)
+    * [362. Design Hit Counter](others/design/application-design/362.-design-hit-counter.md)
+    * [348. Design Tic-Tac-Toe](others/design/application-design/348.-design-tic-tac-toe.md)
+    * [359. Logger Rate Limiter](others/design/application-design/359.-logger-rate-limiter.md)
+    * [353. Design Snake Game](others/design/application-design/353.-design-snake-game.md)
+    * [355. Design Twitter](others/design/application-design/355.-design-twitter.md)
+    * [642. Design Search Autocomplete System](others/design/application-design/642.-design-search-autocomplete-system.md)
+    * [379. Design Phone Directory](others/design/application-design/379.-design-phone-directory.md)
+    * [631. Design Excel Sum Formula](others/design/application-design/631.-design-excel-sum-formula.md)
 * [Multithreaded](others/multithreaded.md)
 * [Math](others/math/README.md)
   * [204. Count Primes](others/math/204.-count-primes.md)
@@ -569,6 +580,12 @@
   * [258. Add Digits](others/math/258.-add-digits.md)
   * [60. Permutation Sequence](others/math/60.-permutation-sequence.md)
   * [289. Game of Life](others/math/289.-game-of-life.md)
+* [System Design \(LintCode\)](others/system-design-lintcode.md)
+* [OOD \(LintCode\)](others/ood-lintcode/README.md)
+  * [204 · Singleton](others/ood-lintcode/204-singleton.md)
+  * [208 · Assignment Operator Overloading \(C++ Only\)](others/ood-lintcode/208-assignment-operator-overloading-c++-only.md)
+  * [496 · Toy Factory](others/ood-lintcode/496-toy-factory.md)
+  * [498 · Parking Lot](others/ood-lintcode/498-parking-lot.md)
 
 ## Index <a id="problem-list"></a>
 
