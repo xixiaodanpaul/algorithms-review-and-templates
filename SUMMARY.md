@@ -585,7 +585,8 @@
   * [204 · Singleton](others/ood-lintcode/204-singleton.md)
   * [208 · Assignment Operator Overloading \(C++ Only\)](others/ood-lintcode/208-assignment-operator-overloading-c++-only.md)
   * [496 · Toy Factory](others/ood-lintcode/496-toy-factory.md)
-  * [498 · Parking Lot](others/ood-lintcode/498-parking-lot.md)
+  * [498 · Parking Lot - OO Design](others/ood-lintcode/498-parking-lot-oo-design.md)
+  * [708 · Elevator system - OO Design](others/ood-lintcode/708-elevator-system-oo-design.md)
 
 ## Index <a id="problem-list"></a>
 

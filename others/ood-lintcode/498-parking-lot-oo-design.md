@@ -1,4 +1,4 @@
-# 498 · Parking Lot
+# 498 · Parking Lot - OO Design
 
 ## Question
 
