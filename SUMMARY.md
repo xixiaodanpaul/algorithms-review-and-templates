@@ -274,6 +274,7 @@
   * [Graph](data-structures/graph/graph/README.md)
     * [841. Keys and Rooms](data-structures/graph/graph/841.-keys-and-rooms.md)
     * [332. Reconstruct Itinerary](data-structures/graph/graph/332.-reconstruct-itinerary.md)
+    * [1462. Course Schedule IV](data-structures/graph/graph/1462.-course-schedule-iv.md)
     * [547. Number of Provinces](data-structures/graph/graph/547.-number-of-provinces.md)
     * [721. Accounts Merge](data-structures/graph/graph/721.-accounts-merge.md)
     * [133. Clone Graph](data-structures/graph/graph/133.-clone-graph.md)
