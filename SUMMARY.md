@@ -252,6 +252,7 @@
     * [815. Bus Routes](data-structures/graph/bfs-shortest-path/815.-bus-routes.md)
     * [909. Snakes and Ladders](data-structures/graph/bfs-shortest-path/909.-snakes-and-ladders.md)
     * [310. Minimum Height Trees](data-structures/graph/bfs-shortest-path/310.-minimum-height-trees.md)
+    * [743. Network Delay Time](data-structures/graph/bfs-shortest-path/743.-network-delay-time.md)
   * [BFS - Topological Sort](data-structures/graph/bfs-topological-sort/README.md)
     * [269. Alien Dictionary](data-structures/graph/bfs-topological-sort/269.-alien-dictionary.md)
     * [207. Course Schedule](data-structures/graph/bfs-topological-sort/207.-course-schedule.md)
