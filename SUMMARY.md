@@ -285,6 +285,7 @@
     * [323. Number of Connected Components in an Undirected Graph](data-structures/graph/graph/323.-number-of-connected-components-in-an-undirected-graph.md)
     * [737. Sentence Similarity II](data-structures/graph/graph/737.-sentence-similarity-ii.md)
     * [261. Graph Valid Tree](data-structures/graph/graph/261.-graph-valid-tree.md)
+    * [684. Redundant Connection](data-structures/graph/graph/684.-redundant-connection.md)
     * [339. Nested List Weight Sum](data-structures/graph/graph/339.-nested-list-weight-sum.md)
     * [364. Nested List Weight Sum II](data-structures/graph/graph/364.-nested-list-weight-sum-ii.md)
     * [947. Most Stones Removed with Same Row or Column](data-structures/graph/graph/947.-most-stones-removed-with-same-row-or-column.md)
