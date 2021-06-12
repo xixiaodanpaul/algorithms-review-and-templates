@@ -197,6 +197,7 @@
   * [Binary Tree Construction](data-structures/tree/binary-tree-construction/README.md)
     * [105. Construct Binary Tree from Preorder and Inorder Traversal](data-structures/tree/binary-tree-construction/105.-construct-binary-tree-from-preorder-and-inorder-traversal.md)
     * [106. Construct Binary Tree from Inorder and Postorder Traversal](data-structures/tree/binary-tree-construction/106.-construct-binary-tree-from-inorder-and-postorder-traversal.md)
+    * [889. Construct Binary Tree from Preorder and Postorder Traversal](data-structures/tree/binary-tree-construction/889.-construct-binary-tree-from-preorder-and-postorder-traversal.md)
     * [297. Serialize and Deserialize Binary Tree](data-structures/tree/binary-tree-construction/297.-serialize-and-deserialize-binary-tree.md)
     * [428. Serialize and Deserialize N-ary Tree](data-structures/tree/binary-tree-construction/428.-serialize-and-deserialize-n-ary-tree.md)
     * [449. Serialize and Deserialize BST](data-structures/tree/binary-tree-construction/449.-serialize-and-deserialize-bst.md)
