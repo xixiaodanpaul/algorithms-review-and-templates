@@ -31,6 +31,7 @@
     * [151. Reverse Words in a String](data-structures/array-string/string/151.-reverse-words-in-a-string.md)
     * [186. Reverse Words in a String II](data-structures/array-string/string/186.-reverse-words-in-a-string-ii.md)
     * [38. Count and Say](data-structures/array-string/string/38.-count-and-say.md)
+    * [468. Validate IP Address](data-structures/array-string/string/468.-validate-ip-address.md)
     * [616. Add Bold Tag in String](data-structures/array-string/string/616.-add-bold-tag-in-string.md)
     * [686. Repeated String Match](data-structures/array-string/string/686.-repeated-string-match.md)
     * [14. Longest Common Prefix](data-structures/array-string/string/14.-longest-common-prefix.md)
