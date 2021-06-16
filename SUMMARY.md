@@ -388,6 +388,7 @@
     * [167. Two Sum II - Input array is sorted](advanced-methods/two-pointers/two-pointers-+-sorted-array-k-sum/167.-two-sum-ii-input-array-is-sorted.md)
     * [15. 3Sum](advanced-methods/two-pointers/two-pointers-+-sorted-array-k-sum/15.-3sum.md)
     * [16. 3Sum Closest](advanced-methods/two-pointers/two-pointers-+-sorted-array-k-sum/16.-3sum-closest.md)
+    * [259. 3Sum Smaller](advanced-methods/two-pointers/two-pointers-+-sorted-array-k-sum/259.-3sum-smaller.md)
     * [18. 4Sum](advanced-methods/two-pointers/two-pointers-+-sorted-array-k-sum/18.-4sum.md)
   * [Two Pointers from Start and End](advanced-methods/two-pointers/two-pointers-from-start-and-end/README.md)
     * [42. Trapping Rain Water](advanced-methods/two-pointers/two-pointers-from-start-and-end/42.-trapping-rain-water.md)
