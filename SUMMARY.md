@@ -36,6 +36,7 @@
     * [686. Repeated String Match](data-structures/array-string/string/686.-repeated-string-match.md)
     * [14. Longest Common Prefix](data-structures/array-string/string/14.-longest-common-prefix.md)
   * [Matrix](data-structures/array-string/matrix/README.md)
+    * [73. Set Matrix Zeroes](data-structures/array-string/matrix/73.-set-matrix-zeroes.md)
     * [766. Toeplitz Matrix](data-structures/array-string/matrix/766.-toeplitz-matrix.md)
     * [463. Island Perimeter](data-structures/array-string/matrix/463.-island-perimeter.md)
     * [419. Battleships in a Board](data-structures/array-string/matrix/419.-battleships-in-a-board.md)
