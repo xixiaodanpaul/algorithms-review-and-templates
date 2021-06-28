@@ -547,7 +547,14 @@
 * [Binary Indexed Tree](advanced-methods/binary-indexed-tree.md)
 * [Bit Manipulation](advanced-methods/bit-manipulation/README.md)
   * [169. Majority Element](advanced-methods/bit-manipulation/169.-majority-element.md)
-* [Random](advanced-methods/random.md)
+  * [190. Reverse Bits](advanced-methods/bit-manipulation/190.-reverse-bits.md)
+* [Random](advanced-methods/random/README.md)
+  * [380. Insert Delete GetRandom O\(1\)](advanced-methods/random/380.-insert-delete-getrandom-o-1.md)
+  * [381. Insert Delete GetRandom O\(1\) - Duplicates allowed](advanced-methods/random/381.-insert-delete-getrandom-o-1-duplicates-allowed.md)
+  * [528. Random Pick with Weight](advanced-methods/random/528.-random-pick-with-weight.md)
+  * [398. Random Pick Index](advanced-methods/random/398.-random-pick-index.md)
+  * [382. Linked List Random Node](advanced-methods/random/382.-linked-list-random-node.md)
+  * [384. Shuffle an Array](advanced-methods/random/384.-shuffle-an-array.md)
 
 ## Others
 
