@@ -548,6 +548,7 @@
 * [Bit Manipulation](advanced-methods/bit-manipulation/README.md)
   * [169. Majority Element](advanced-methods/bit-manipulation/169.-majority-element.md)
   * [190. Reverse Bits](advanced-methods/bit-manipulation/190.-reverse-bits.md)
+  * [393. UTF-8 Validation](advanced-methods/bit-manipulation/393.-utf-8-validation.md)
 * [Random](advanced-methods/random/README.md)
   * [380. Insert Delete GetRandom O\(1\)](advanced-methods/random/380.-insert-delete-getrandom-o-1.md)
   * [381. Insert Delete GetRandom O\(1\) - Duplicates allowed](advanced-methods/random/381.-insert-delete-getrandom-o-1-duplicates-allowed.md)
