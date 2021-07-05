@@ -325,6 +325,7 @@
     * [280. Wiggle Sort](basic-algorithms/sort/others/280.-wiggle-sort.md)
     * [324. Wiggle Sort II](basic-algorithms/sort/others/324.-wiggle-sort-ii.md)
     * [147. Insertion Sort List](basic-algorithms/sort/others/147.-insertion-sort-list.md)
+    * [1356. Sort Integers by The Number of 1 Bits](basic-algorithms/sort/others/1356.-sort-integers-by-the-number-of-1-bits.md)
 * [Binary Search](basic-algorithms/binary-search/README.md)
   * [Basics](basic-algorithms/binary-search/basics.md)
   * [Search Rotated Sorted Array](basic-algorithms/binary-search/search-rotated-sorted-array/README.md)
