@@ -101,6 +101,7 @@
   * [Remove Node](data-structures/linked-list/remove-node/README.md)
     * [83. Remove Duplicates from Sorted List](data-structures/linked-list/remove-node/83.-remove-duplicates-from-sorted-list.md)
     * [203. Remove Linked List Elements](data-structures/linked-list/remove-node/203.-remove-linked-list-elements.md)
+    * [19. Remove Nth Node From End of List](data-structures/linked-list/remove-node/19.-remove-nth-node-from-end-of-list.md)
     * [237. Delete Node in a Linked List](data-structures/linked-list/remove-node/237.-delete-node-in-a-linked-list.md)
   * [List + Stack](data-structures/linked-list/list-+-stack/README.md)
     * [143. Reorder List](data-structures/linked-list/list-+-stack/143.-reorder-list.md)
