@@ -27,6 +27,7 @@
     * [157. Read N Characters Given Read4](data-structures/array-string/string/157.-read-n-characters-given-read4.md)
     * [158. Read N Characters Given Read4 II - Call multiple times](data-structures/array-string/string/158.-read-n-characters-given-read4-ii-call-multiple-times.md)
     * [921. Minimum Add to Make Parentheses Valid](data-structures/array-string/string/921.-minimum-add-to-make-parentheses-valid.md)
+    * [1541. Minimum Insertions to Balance a Parentheses String](data-structures/array-string/string/1541.-minimum-insertions-to-balance-a-parentheses-string.md)
     * [678. Valid Parenthesis String](data-structures/array-string/string/678.-valid-parenthesis-string.md)
     * [151. Reverse Words in a String](data-structures/array-string/string/151.-reverse-words-in-a-string.md)
     * [186. Reverse Words in a String II](data-structures/array-string/string/186.-reverse-words-in-a-string-ii.md)
