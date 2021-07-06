@@ -20,6 +20,7 @@
     * [163. Missing Ranges](data-structures/array-string/array/163.-missing-ranges.md)
     * [896. Monotonic Array](data-structures/array-string/array/896.-monotonic-array.md)
     * [414. Third Maximum Number](data-structures/array-string/array/414.-third-maximum-number.md)
+    * [189. Rotate Array](data-structures/array-string/array/189.-rotate-array.md)
   * [String](data-structures/array-string/string/README.md)
     * [843. Guess the Word](data-structures/array-string/string/843.-guess-the-word.md)
     * [670. Maximum Swap](data-structures/array-string/string/670.-maximum-swap.md)
