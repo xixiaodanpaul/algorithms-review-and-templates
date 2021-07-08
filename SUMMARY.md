@@ -544,6 +544,8 @@
     * [741. Cherry Pickup](advanced-methods/dynamic-programming/matrix/741.-cherry-pickup.md)
     * [935. Knight Dialer](advanced-methods/dynamic-programming/matrix/935.-knight-dialer.md)
     * [688. Knight Probability in Chessboard](advanced-methods/dynamic-programming/matrix/688.-knight-probability-in-chessboard.md)
+    * [118. Pascal's Triangle](advanced-methods/dynamic-programming/matrix/118.-pascals-triangle.md)
+    * [119. Pascal's Triangle II](advanced-methods/dynamic-programming/matrix/119.-pascals-triangle-ii.md)
     * [120. Triangle](advanced-methods/dynamic-programming/matrix/120.-triangle.md)
     * [221. Maximal Square](advanced-methods/dynamic-programming/matrix/221.-maximal-square.md)
     * [303. Range Sum Query - Immutable](advanced-methods/dynamic-programming/matrix/303.-range-sum-query-immutable.md)
