@@ -575,6 +575,11 @@
   * [398. Random Pick Index](advanced-methods/random/398.-random-pick-index.md)
   * [382. Linked List Random Node](advanced-methods/random/382.-linked-list-random-node.md)
   * [384. Shuffle an Array](advanced-methods/random/384.-shuffle-an-array.md)
+* [Line/Value Sweep](advanced-methods/line-value-sweep/README.md)
+  * [253. Meeting Rooms II](advanced-methods/line-value-sweep/253.-meeting-rooms-ii.md)
+  * [759. Employee Free Time](advanced-methods/line-value-sweep/759.-employee-free-time.md)
+  * [218. The Skyline Problem](advanced-methods/line-value-sweep/218.-the-skyline-problem.md)
+  * [850. Rectangle Area II](advanced-methods/line-value-sweep/850.-rectangle-area-ii.md)
 
 ## Others
 
@@ -619,6 +624,7 @@
   * [43. Multiply Strings](others/math/43.-multiply-strings.md)
   * [829. Consecutive Numbers Sum](others/math/829.-consecutive-numbers-sum.md)
   * [166. Fraction to Recurring Decimal](others/math/166.-fraction-to-recurring-decimal.md)
+  * [592. Fraction Addition and Subtraction](others/math/592.-fraction-addition-and-subtraction.md)
   * [311. Sparse Matrix Multiplication](others/math/311.-sparse-matrix-multiplication.md)
   * [991. Broken Calculator](others/math/991.-broken-calculator.md)
   * [780. Reaching Points](others/math/780.-reaching-points.md)
