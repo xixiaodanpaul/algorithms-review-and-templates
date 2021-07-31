@@ -429,6 +429,7 @@
     * [209. Minimum Size Subarray Sum](advanced-methods/two-pointers/two-pointers-from-start/untitled.md)
     * [795. Number of Subarrays with Bounded Maximum](advanced-methods/two-pointers/two-pointers-from-start/795.-number-of-subarrays-with-bounded-maximum.md)
     * [763. Partition Labels](advanced-methods/two-pointers/two-pointers-from-start/763.-partition-labels.md)
+    * [228. Summary Ranges](advanced-methods/two-pointers/two-pointers-from-start/228.-summary-ranges.md)
     * [28. Implement strStr\(\)](advanced-methods/two-pointers/two-pointers-from-start/28.-implement-strstr.md)
     * [977. Squares of a Sorted Array](advanced-methods/two-pointers/two-pointers-from-start/977.-squares-of-a-sorted-array.md)
     * [443. String Compression](advanced-methods/two-pointers/two-pointers-from-start/443.-string-compression.md)
