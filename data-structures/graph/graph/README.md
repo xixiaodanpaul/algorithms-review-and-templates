@@ -1,13 +1,13 @@
-# Graph
+# Graph Others
 
 * Build a graph to represent the relationship
 * Use BFS/DFS to solve for solution
   * All possible solutions or max/min solution
     * Can use visited array to store visited nodes **only in DFS**
-    * Example: ****[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+    * Example: [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
   * Find one solution or calculate a value
     * Can use visited array to store visited nodes **in both DFS and BFS**
-    * Example: ****[Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+    * Example: [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 
 Examples:
 
@@ -173,4 +173,3 @@ public:
     }
 };
 ```
-
