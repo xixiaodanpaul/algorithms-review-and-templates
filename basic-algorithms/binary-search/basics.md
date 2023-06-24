@@ -8,7 +8,7 @@
 
 注意：模板和它们的差异已被彩色标注如下。
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 这 3 个模板的不同之处在于：
 
